@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.python-version
+
+# Виртуальное окружение
+venv/
+.env
+
+# Jupyter / ноутбуки
+.ipynb_checkpoints/
+
+# Данные и модели
+data/
+*.csv
+*.pkl
+*.h5
+*.pt
+*.joblib
+
+# IDE и OS
+.DS_Store
+Thumbs.db
+
+# Логи и временные файлы
+*.log
+*.tmp
